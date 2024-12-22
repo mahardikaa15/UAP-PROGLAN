@@ -105,6 +105,4 @@ Kelas utama yang mengatur GUI dan logika aplikasi.
 - Aplikasi ini hanya menyimpan data dalam memori selama program berjalan. Data tidak akan tersimpan secara permanen setelah aplikasi ditutup.
 - Pengeluaran dapat dimasukkan ke bulan yang berbeda tanpa memengaruhi data bulan lain.
 
-## Lisensi
 
-Aplikasi ini dibuat untuk tujuan pembelajaran dan bebas digunakan oleh siapa saja.
